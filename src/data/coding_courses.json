@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id":1,
+            "title":"Programming Fundamentals",
+            "slug":"program-funda",
+            "description":"Learn C/C++, HTML etc. To get the Idea about Programming Fundamentals",
+            "price":3999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/cpp.jpg"
+        },
+        {
+            "id":2,
+            "title":"MERN STACK",
+            "slug":"mern-stack",
+            "description":"Learn MERN STACK to develop great site and app for Placement Project",
+            "price":9999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/mernstack.png"
+        },
+        {
+            "id":3,
+            "title":"JAVA",
+            "slug":"java",
+            "description":"Get the Core and Advanced Java, To go with Industry Trends ",
+            "price":5999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/java.png"
+        },
+        {
+            "id":4,
+            "title":"Python",
+            "slug":"python",
+            "description":"Learn Python Basic, Intermediate, Advanced, to get into different field",
+            "price":8999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/python.png"
+        },
+        {
+            "id":5,
+            "title":"Data Structure and Algorithm",
+            "slug":"dsa",
+            "description":"Improve your Problem Solving Skill by solving the best question in DSA",
+            "price":11999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/dsa.png"
+        },
+        {
+            "id":6,
+            "title":"LLD and HLD",
+            "slug":"lld-and-hld",
+            "description":"Learn Low Level Design and High Level Design & crack your PBC's interview",
+            "price":12999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/lld.jpg"
+        },
+        {
+            "id":7,
+            "title":"AI and ML",
+            "slug":"ai-and-ml",
+            "description":" Learn Artificial Intelligence and Machine Learning",
+            "price":19999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/aiml.jpg"
+        },
+        {
+            "id":8,
+            "title":"Data Science and Analytics",
+            "slug":"data-science-and-analytics",
+            "description":"Get the Complete Package of Data related Field",
+            "price":20999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/datascience.jpg"
+        },
+        {
+            "id":9,
+            "title":"Cloud Computing",
+            "slug":"cloud-computing",
+            "description":"Lean how cloud work, how we can deploy project",
+            "price":13999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/cloud.jpg"
+        },
+        {
+            "id":10,
+            "title":"Cyber Security",
+            "slug":"cyber-security",
+            "description":"Become a Ethical Hacker and make the secure in today's world",
+            "price":14999,
+            "instructor": "Sachin Prajapati",
+            "isFeatured": true,
+            "image":"/courses/cyber.jpg"
+        }
+    ]
+}

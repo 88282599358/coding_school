@@ -135,7 +135,7 @@ const tabs = [
   },
 ];
 
-const words = "Google Amazon JP Morgon Apple Nvidia Microsoft Uber The wall street"
+const words = "Google, Amazon, JP Morgon, Apple, Nvidia, Microsoft, Uber, The wall street"
 
 
 const page = () => {
@@ -187,7 +187,7 @@ const page = () => {
 
         <h2 className="text-2xl font-bold mb-2">Our Hiring Partners</h2>
         <p className="mb-4">
-        <TextGenerateEffect words={words} />;
+        <TextGenerateEffect words={words} />
         </p>
         <ul className=" pl-4 mb-4">
           <li>Google</li>
